@@ -73,7 +73,7 @@ function App() {
         <h2 className="text-center text-2xl text-amber-600 font-bold mt-2">
           COMPUTER CHOICE : {compChoices}
         </h2>
-        <h2 className="text-center text-2xl text-amber-600 font-bold mt-4">
+        <h2 className="f text-center text-2xl text-amber-600 font-bold mt-4">
           {" "}
           WINNER : {winner}
         </h2>
